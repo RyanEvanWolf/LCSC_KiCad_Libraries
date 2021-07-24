@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L_33uH_10.3x10.4_SMD_C9936
+D 33uH ±20% 2.2A 93mΩ SMD,10.3x10.4x4mm Power Inductors RoHS
+K inductor choke coil reactor magnetic LCSC
+F https://datasheet.lcsc.com/szlcsc/1811111712_SXN-Shun-Xiang-Nuo-Elec-SMDRH104R-330MT_C9936.pdf
+$ENDCMP
+#
+$CMP L_copy
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+#End Doc Library

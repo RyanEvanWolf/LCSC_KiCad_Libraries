@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAS40-04_C397601
+D 40V 120mA 1V @ 40mA SOT-23 Schottky Barrier Diodes (SBD) RoHS
+K Schottky, Diode LCSC
+F https://datasheet.lcsc.com/szlcsc/1912111437_AnBon-BAS40-04_C397601.pdf
+$ENDCMP
+#
+$CMP BZX84C9V1
+D SOT-23 Zener Diodes RoHS, 350mw Power Dissipation, Zener Voltages From 2.4V -51V
+K zener diode
+F https://datasheet.lcsc.com/szlcsc/2009211739_LGE-BZX84C9V1_C841163.pdf
+$ENDCMP
+#
+$CMP LED_Blue_0603_C72041
+D Blue 465~475nm 0603 Light Emitting Diodes (LED) RoHS
+K LED diode
+F https://datasheet.lcsc.com/szlcsc/1811101510_Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72041.pdf
+$ENDCMP
+#
+$CMP LED_Green_0603_C205443
+D Green 520~535nm 0603 Light Emitting Diodes (LED) RoHS
+K LED diode
+F https://datasheet.lcsc.com/szlcsc/1811092313_Orient-ORH-G36G_C205443.pdf
+$ENDCMP
+#
+$CMP LED_Orange_0603_C146215
+D Orange 600.5~612.5nm 0603 Light Emitting Diodes (LED) RoHS
+K LED diode LCSC
+F https://datasheet.lcsc.com/szlcsc/1912171731_Everlight-Elec-19-217-S2C-AQ1R1B-3T_C146215.pdf
+$ENDCMP
+#
+#End Doc Library

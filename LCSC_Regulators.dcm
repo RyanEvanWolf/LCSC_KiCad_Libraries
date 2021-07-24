@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM7805L_TO220_C71106
+D Fixed 35V 5V 2V TO-220(TO-220-3) Dropout Regulators(LDO) RoHS
+K POWER REGULATOR
+F https://datasheet.lcsc.com/szlcsc/1809200018_UTC-Unisonic-Tech-LM7805L-TA3-T_C71106.pdf
+$ENDCMP
+#
+#End Doc Library

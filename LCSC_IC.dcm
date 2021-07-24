@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2596S-ADJ_TO-263-5_C194351
+D TO-263-5 DC-DC Converters RoHS
+K Adjustable_Regulator LCSC
+F https://datasheet.lcsc.com/szlcsc/2009241904_HGSEMI-LM2596S-ADJ-TR_C194351.pdf
+$ENDCMP
+#
+$CMP MCP2551_SOIC-8_C49558
+D Transceiver CAN 1/1 1Mbps SOIC-8_150mil CAN ICs RoHS
+K High-Speed CAN Transceiver
+F https://datasheet.lcsc.com/szlcsc/1809192221_Microchip-Tech-MCP2551T-I-SN_C49558.pdf
+$ENDCMP
+#
+$CMP NE555D_C596355
+D SOP-8 Timer RoHS
+K single timer 555
+F https://datasheet.lcsc.com/szlcsc/2006081112_HTC-Korea-TAEJIN-Tech-NE555D_C596355.pdf
+$ENDCMP
+#
+#End Doc Library

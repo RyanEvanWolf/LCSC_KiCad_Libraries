@@ -1,0 +1,44 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CP_22uF_SMD_C23289
+D 22uF ±20% 35V 5mm 5.4mm 1000hrs @ 105℃ -40℃~+105℃ SMD,5x5.4mm Aluminum Electrolytic Capacitors - SMD RoHS
+K cap capacitor
+F https://datasheet.lcsc.com/szlcsc/1811050620_Honor-Elec-RVT1V220M0505_C23289.pdf
+$ENDCMP
+#
+$CMP CP_680uF_SMD_C305384
+D 680uF ±20% 16V 10mm 10.5mm 2000hrs @ 105℃ -40℃~+105℃ SMD,10x10.5mm Aluminum Electrolytic Capacitors - SMD RoHS
+K cap capacitor LCSC
+F https://datasheet.lcsc.com/szlcsc/1811051716_VT-Vertical-Technology-VT1C681M-CRG10_C305384.pdf
+$ENDCMP
+#
+$CMP C_100nF_0603_C143639
+D 100nF -20%,+80% 50V Y5V 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+K cap capacitor LCSC
+F https://datasheet.lcsc.com/szlcsc/1810111813_AVX-06035G104ZAT2A_C143639.pdf
+$ENDCMP
+#
+$CMP C_1uF_0603_C15849
+D 1uF ±10% 50V X5R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+K cap capacitor LCSC
+F https://datasheet.lcsc.com/szlcsc/1810261812_Samsung-Electro-Mechanics-CL10A105KB8NNNC_C15849.pdf
+$ENDCMP
+#
+$CMP C_47uF_1206_C403725
+D 47uF ±20% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+K cap capacitor LCSC
+F https://datasheet.lcsc.com/szlcsc/1912111437_Murata-Electronics-GRM31CR61E476ME44L_C403725.pdf
+$ENDCMP
+#
+$CMP C_5.6nF_0603_C1628
+D 5.6nF ±10% 50V X7R 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS
+K cap capacitor LCSC
+F https://datasheet.lcsc.com/szlcsc/1811031112_FH-Guangdong-Fenghua-Advanced-Tech-0603B562K500NT_C1628.pdf
+$ENDCMP
+#
+$CMP DNP_C_0603
+D Ceramic Capacitor - 0603 - Do Not Populate
+K cap capacitor LCSC DNP
+$ENDCMP
+#
+#End Doc Library

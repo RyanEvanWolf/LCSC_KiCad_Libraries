@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DB9_Male_THP_C75750
+D D-Sub Plug,Male Pin 9 2 1.5A(Contact) Through Hole D-Sub Connectors RoHS
+K connector male D-SUB LCSC
+F https://datasheet.lcsc.com/lcsc/1811081022_CONNFLY-Elec-DS1037-09MNAKT74-0CC_C75750.pdf
+$ENDCMP
+#
+$CMP Screw_Terminal_01x02_P5.08_C557665
+D P=5.08mm Screw terminal RoHS
+K screw terminal LCSC
+F https://datasheet.lcsc.com/lcsc/2005271131_Ningbo-Xinlaiya-Elec-XY128V-A-5-08-2P_C557665.pdf
+$ENDCMP
+#
+$CMP Screw_Terminal_01x03_P5.08_C72334
+D P=5.08mm Screw terminal RoHS
+K screw terminal LCSC
+F https://datasheet.lcsc.com/lcsc/1912251709_Ningbo-Kangnex-Elec-WJ500V-5-08-3P_C72334.pdf
+$ENDCMP
+#
+#End Doc Library
