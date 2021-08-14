@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0R_0805_C346501
+D 0Ω 0.5W 0805 Chip Resistor - Surface Mount RoHS
+K R res resistor LCSC
+F https://datasheet.lcsc.com/szlcsc/1912111437_SEI-Stackpole-Elec-HCJ0805ZT0R00_C346501.pdf
+$ENDCMP
+#
+$CMP 10K_0603_C190321
+D 10K ±0.1% 1/10W ±10ppm/℃ 0603 High Precision & Low TCR SMD Resistors RoHS
+K R res resistor LCSC
+F https://datasheet.lcsc.com/szlcsc/1811081726_UNI-ROYAL-Uniroyal-Elec-TC0310B1002T5E_C190321.pdf
+$ENDCMP
+#
+$CMP 120R_0603_C543338
+D 120Ω ±1% 0.25W ±100ppm/℃ 0603 Chip Resistor - Surface Mount RoHS
+K R res resistor LCSC
+F https://datasheet.lcsc.com/szlcsc/2005181240_PANASONIC-ERJPA3F1200V_C543338.pdf
+$ENDCMP
+#
+$CMP 1K_0603_C253329
+D 1kΩ ±5% 0.25W ±200ppm/℃ 0603 Chip Resistor - Surface Mount RoHS
+K R res resistor LCSC
+F https://datasheet.lcsc.com/szlcsc/1810192030_ROHM-Semicon-ESR03EZPJ102_C253329.pdf
+$ENDCMP
+#
+$CMP 300R_0603_C190321
+D 300Ω ±1% 0.1W ±100ppm/℃ 0603 Chip Resistor - Surface Mount RoHS
+K R res resistor LCSC
+F https://datasheet.lcsc.com/szlcsc/1811061727_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K3000FT_C286583.pdf
+$ENDCMP
+#
+$CMP 3K_0603_C305262
+D 3kΩ ±0.1% 0.125W ±25ppm/℃ 0603 Chip Resistor - Surface Mount RoHS
+K R res resistor LCSC
+F https://datasheet.lcsc.com/szlcsc/1811151147_Walsin-Tech-Corp-WF06R3001BTL_C305262.pdf
+$ENDCMP
+#
+$CMP DNP_0603
+D 0603 Chip Resistor - Surface Mount - Do Not Populate
+K DNP 0603
+F N/A
+$ENDCMP
+#
+#End Doc Library

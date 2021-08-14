@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name LCSC_Connectors)(type Legacy)(uri ${KIPRJMOD}/LCSC_Connectors.lib)(options "")(descr ""))
-)

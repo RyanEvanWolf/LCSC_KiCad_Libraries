@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP TP_TH_2.54mm
-D Test Point, Through Hole, 2.54mm Diameter Hole
-K TP,2.54mm,TH
-$ENDCMP
-#
-#End Doc Library

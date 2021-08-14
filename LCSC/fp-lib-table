@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Common)(type KiCad)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/Common.pretty)(options "")(descr LCSC))
+  (lib (name LCSC_Connectors)(type KiCad)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_Connectors.pretty)(options "")(descr LCSC))
+  (lib (name LCSC_Diodes)(type KiCad)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_Diodes.pretty)(options "")(descr LCSC))
+  (lib (name LCSC_IC)(type KiCad)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_IC.pretty)(options "")(descr LCSC))
+)

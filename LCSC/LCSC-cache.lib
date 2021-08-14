@@ -1,0 +1,35 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# LCSC_Transistors_IRF9540N_C2575
+#
+DEF LCSC_Transistors_IRF9540N_C2575 Q 0 20 Y N 1 F N
+F0 "Q" 100 80 50 H V L CNN
+F1 "LCSC_Transistors_IRF9540N_C2575" 100 5 50 H V L CNN
+F2 "Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown" -745 -455 50 H I L CIN
+F3 "" -100 5 50 H I L CNN
+F4 "C2575" 5 -830 50 H I C CNN "LCSC"
+F5 "Infineon Technologies" 55 -530 50 H I C CNN "Manufacturer"
+F6 "IRF9540NPBF" 5 -630 50 H I C CNN "MFG No"
+F7 "TO-220" 5 -730 50 H I C CNN "Package"
+DRAW
+C -35 5 110 0 1 10 N
+C 0 -65 10 0 1 0 F
+C 0 75 10 0 1 0 F
+P 2 0 1 10 -90 80 -90 -70 N
+P 2 0 1 10 -70 -45 -70 -85 N
+P 2 0 1 10 -70 25 -70 -15 N
+P 2 0 1 10 -70 95 -70 55 N
+P 2 0 1 0 0 105 0 75 N
+P 3 0 1 0 0 -95 0 5 -70 5 N
+P 4 0 1 0 -70 75 30 75 30 -65 -70 -65 N
+P 4 0 1 0 -10 5 -50 20 -50 -10 -10 5 F
+P 4 0 1 0 10 -15 15 -10 45 -10 50 -5 N
+P 4 0 1 0 30 -10 15 15 45 15 30 -10 N
+X G 1 -250 0 100 R 50 50 1 1 I
+X D 2 0 205 100 D 50 50 1 1 P
+X S 3 0 -195 100 U 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -3,10 +3,10 @@ EESchema-LIBRARY Version 2.4
 #
 # TP_TH_2.54mm
 #
-DEF TP_TH_2.54mm TP? 0 40 Y N 1 F N
-F0 "TP?" 50 450 100 H V C CIN
+DEF TP_TH_2.54mm TP 0 40 Y N 1 F N
+F0 "TP" 50 450 100 H V C CIN
 F1 "TP_TH_2.54mm" 100 -350 100 H I C CNN
-F2 "TestPoint:TestPoint_Loop_D2.54mm_Drill1.5mm_Beaded" 200 -500 100 H I C CNN
+F2 "Common:TP_2.54mm_Commented" 200 -500 100 H I C CNN
 F3 "" -250 350 100 H I C CNN
 DRAW
 C 0 250 50 0 1 0 F

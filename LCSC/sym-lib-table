@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name LCSC_Transistors)(type Legacy)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_Transistors.lib)(options "")(descr LCSC))
+  (lib (name Common)(type Legacy)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/Common.lib)(options "")(descr LCSC))
+  (lib (name LCSC_Caps)(type Legacy)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_Caps.lib)(options "")(descr LCSC))
+  (lib (name LCSC_Connectors)(type Legacy)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_Connectors.lib)(options "")(descr LCSC))
+  (lib (name LCSC_Diodes)(type Legacy)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_Diodes.lib)(options "")(descr LCSC))
+  (lib (name LCSC_IC)(type Legacy)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_IC.lib)(options "")(descr LCSC))
+  (lib (name LCSC_Inductors)(type Legacy)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_Inductors.lib)(options "")(descr LCSC))
+  (lib (name LCSC_Regulators)(type Legacy)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_Regulators.lib)(options "")(descr LCSC))
+  (lib (name LCSC_Resistors)(type Legacy)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_Resistors.lib)(options "")(descr LCSC))
+  (lib (name LCSC_Switches)(type Legacy)(uri D:/Shared/remoteMonitoring/PCB's/CAN_Front_End/LocalCommon/LCSC/LCSC_Switches.lib)(options "")(descr LCSC))
+  (lib (name LCSC-rescue)(type Legacy)(uri ${KIPRJMOD}/LCSC-rescue.lib)(options "")(descr ""))
+)

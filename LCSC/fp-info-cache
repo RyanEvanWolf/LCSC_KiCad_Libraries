@@ -1,4 +1,4 @@
-19085809958231421
+19092323597684954
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -6124,6 +6124,13 @@ capacitor tantalum
 0
 2
 2
+Common
+TP_2.54mm_Commented
+Regular Test Point for 2.54mm headers
+TP_TH_Regular
+0
+1
+1
 Connector
 Banana_Jack_1Pin
 Single banana socket, footprint - 6mm drill
@@ -55098,13 +55105,34 @@ DB9 Plug Male 2 Mounting Holes
 10
 LCSC_Connectors
 Screw_Terminal_P5.08_2Pin_C557665
-
+Screw Terminal, 5.08mm Pitch
 
 0
 2
 2
 LCSC_Connectors
 Screw_Terminal_P5.08_3Pin_C72334
+Screw Terminal, 3 Way, 5.08mm Pitch
+LCSC, Terminal
+0
+3
+3
+LCSC_Diodes
+SOT-23-3Pin
+SOT-23, Single Diode, 3 Pins
+SOT-23, Diode
+0
+3
+3
+LCSC_IC
+SOP-8_3.9x4.9mm_P1.27mm
+SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+8
+8
+LCSC_IC
+SOT-23
 
 
 0

@@ -49,8 +49,8 @@ ENDDEF
 #
 # Screw_Terminal_01x02_P5.08_C557665
 #
-DEF Screw_Terminal_01x02_P5.08_C557665 J? 0 40 Y N 1 F N
-F0 "J?" 0 200 50 H V C CNN
+DEF Screw_Terminal_01x02_P5.08_C557665 J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
 F1 "Screw_Terminal_01x02_P5.08_C557665" 75 -650 50 H I C CNN
 F2 "LCSC_Connectors:Screw_Terminal_P5.08_2Pin_C557665" 25 625 50 H I C CNN
 F3 "" 200 100 50 V I C CNN
